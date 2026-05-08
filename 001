@@ -1,0 +1,2 @@
+shopping_list = ['cheese', 'milk', 'eggs', 'buttler']
+len(shopping_list)
